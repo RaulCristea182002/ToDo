@@ -1,0 +1,25 @@
+.adauga_obiective
+{ 
+    margin: 35px;
+}
+h1{
+    text-align: center;
+    padding-top: 25px;
+}
+
+
+.Obiective > div {
+   width: 33.33%;
+   float: left;
+   margin: 0% auto;
+   padding: 10px;
+
+}
+.Obiective > div li:hover {
+    background-color: gray;
+    cursor: pointer;
+
+}
+.Obiective div h1{
+    text-align: center;
+}
